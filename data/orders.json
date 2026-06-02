@@ -1,0 +1,281 @@
+{
+  "_meta": {
+    "company": "Trailhead Gear Co.",
+    "reference_date": "2026-06-02",
+    "return_window_days": 60,
+    "return_window_measured_from": "delivery_date",
+    "note": "Synthetic data for the capstone. Eligibility should be computed against reference_date, not the system clock. Cutoff delivery date for the 60-day window is 2026-04-03."
+  },
+  "orders": [
+    {
+      "order_id": "TGC-10210",
+      "customer_email": "jordan.lee@example.com",
+      "order_date": "2026-01-15",
+      "status": "returned",
+      "ship_date": "2026-01-17",
+      "delivery_date": "2026-01-21",
+      "items": [
+        { "sku": "TGC-BAG-002", "name": "Meadow 30", "qty": 1, "unit_price": 159.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10221",
+      "customer_email": "morgan.patel@example.com",
+      "order_date": "2026-01-22",
+      "status": "delivered",
+      "ship_date": "2026-01-24",
+      "delivery_date": "2026-01-28",
+      "items": [
+        { "sku": "TGC-PACK-003", "name": "Expedition 85", "qty": 1, "unit_price": 349.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10228",
+      "customer_email": "morgan.patel@example.com",
+      "order_date": "2026-02-02",
+      "status": "delivered",
+      "ship_date": "2026-02-04",
+      "delivery_date": "2026-02-08",
+      "items": [
+        { "sku": "TGC-PACK-002", "name": "Daybreak 30", "qty": 1, "unit_price": 129.00 },
+        { "sku": "TGC-NAV-002", "name": "TrailMate Compass", "qty": 1, "unit_price": 39.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10233",
+      "customer_email": "alex.romano@example.com",
+      "order_date": "2026-02-08",
+      "status": "delivered",
+      "ship_date": "2026-02-10",
+      "delivery_date": "2026-02-14",
+      "items": [
+        { "sku": "TGC-TENT-005", "name": "Trailhead Basecamp 4", "qty": 1, "unit_price": 349.00 },
+        { "sku": "TGC-STOVE-002", "name": "Basecamp Twin Burner", "qty": 1, "unit_price": 129.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10238",
+      "customer_email": "taylor.nguyen@example.com",
+      "order_date": "2026-02-12",
+      "status": "delivered",
+      "ship_date": "2026-02-14",
+      "delivery_date": "2026-02-18",
+      "items": [
+        { "sku": "TGC-BAG-003", "name": "Tundra 0", "qty": 1, "unit_price": 389.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10245",
+      "customer_email": "sam.okafor@example.com",
+      "order_date": "2026-02-18",
+      "status": "returned",
+      "ship_date": "2026-02-20",
+      "delivery_date": "2026-02-24",
+      "items": [
+        { "sku": "TGC-FOOT-003", "name": "Summit GTX Mountaineer", "qty": 1, "unit_price": 289.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10250",
+      "customer_email": "casey.rivera@example.com",
+      "order_date": "2026-02-05",
+      "status": "delivered",
+      "ship_date": "2026-02-07",
+      "delivery_date": "2026-02-10",
+      "items": [
+        { "sku": "TGC-APRL-001", "name": "Stormshell Jacket", "qty": 1, "unit_price": 249.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10256",
+      "customer_email": "alex.romano@example.com",
+      "order_date": "2026-02-28",
+      "status": "delivered",
+      "ship_date": "2026-03-02",
+      "delivery_date": "2026-03-06",
+      "items": [
+        { "sku": "TGC-STOVE-002", "name": "Basecamp Twin Burner", "qty": 1, "unit_price": 129.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10264",
+      "customer_email": "taylor.nguyen@example.com",
+      "order_date": "2026-02-20",
+      "status": "delivered",
+      "ship_date": "2026-02-22",
+      "delivery_date": "2026-02-26",
+      "items": [
+        { "sku": "TGC-PACK-001", "name": "Vista 65", "qty": 1, "unit_price": 279.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10271",
+      "customer_email": "sam.okafor@example.com",
+      "order_date": "2026-03-10",
+      "status": "delivered",
+      "ship_date": "2026-03-12",
+      "delivery_date": "2026-03-16",
+      "items": [
+        { "sku": "TGC-STOVE-001", "name": "Pocket Flame", "qty": 1, "unit_price": 54.00 },
+        { "sku": "TGC-BAG-001", "name": "Glacier 15", "qty": 1, "unit_price": 329.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10278",
+      "customer_email": "jamie.cohen@example.com",
+      "order_date": "2026-03-22",
+      "status": "delivered",
+      "ship_date": "2026-03-24",
+      "delivery_date": "2026-03-28",
+      "items": [
+        { "sku": "TGC-NAV-001", "name": "PathFinder GPS Watch", "qty": 1, "unit_price": 329.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10285",
+      "customer_email": "alex.romano@example.com",
+      "order_date": "2026-04-01",
+      "status": "delivered",
+      "ship_date": "2026-04-03",
+      "delivery_date": "2026-04-07",
+      "items": [
+        { "sku": "TGC-FOOT-001", "name": "Ridgeline Hiker Mid", "qty": 1, "unit_price": 159.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10289",
+      "customer_email": "riley.santos@example.com",
+      "order_date": "2026-04-12",
+      "status": "delivered",
+      "ship_date": "2026-04-14",
+      "delivery_date": "2026-04-18",
+      "items": [
+        { "sku": "TGC-TENT-001", "name": "Summit Ridge 2", "qty": 1, "unit_price": 379.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10293",
+      "customer_email": "casey.rivera@example.com",
+      "order_date": "2026-04-18",
+      "status": "delivered",
+      "ship_date": "2026-04-20",
+      "delivery_date": "2026-04-24",
+      "items": [
+        { "sku": "TGC-FOOT-004", "name": "Cascade Trail Boot", "qty": 1, "unit_price": 189.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10295",
+      "customer_email": "taylor.nguyen@example.com",
+      "order_date": "2026-04-20",
+      "status": "delivered",
+      "ship_date": "2026-04-22",
+      "delivery_date": "2026-04-26",
+      "items": [
+        { "sku": "TGC-PACK-002", "name": "Daybreak 30", "qty": 1, "unit_price": 129.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10298",
+      "customer_email": "jamie.cohen@example.com",
+      "order_date": "2026-04-22",
+      "status": "delivered",
+      "ship_date": "2026-04-24",
+      "delivery_date": "2026-04-29",
+      "items": [
+        { "sku": "TGC-APRL-002", "name": "Down Puffer Hoody", "qty": 2, "unit_price": 179.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10301",
+      "customer_email": "drew.kim@example.com",
+      "order_date": "2026-04-28",
+      "status": "delivered",
+      "ship_date": "2026-04-30",
+      "delivery_date": "2026-05-04",
+      "items": [
+        { "sku": "TGC-STOVE-003", "name": "Windburner Solo", "qty": 1, "unit_price": 189.00 },
+        { "sku": "TGC-BAG-001", "name": "Glacier 15", "qty": 1, "unit_price": 329.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10305",
+      "customer_email": "riley.santos@example.com",
+      "order_date": "2026-05-05",
+      "status": "delivered",
+      "ship_date": "2026-05-07",
+      "delivery_date": "2026-05-11",
+      "items": [
+        { "sku": "TGC-PACK-004", "name": "Summit UL 50", "qty": 1, "unit_price": 239.00 },
+        { "sku": "TGC-BAG-004", "name": "Drifter 45 Quilt", "qty": 1, "unit_price": 199.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10308",
+      "customer_email": "quinn.foster@example.com",
+      "order_date": "2026-05-15",
+      "status": "delivered",
+      "ship_date": "2026-05-17",
+      "delivery_date": "2026-05-20",
+      "items": [
+        { "sku": "TGC-TENT-002", "name": "Cascade Dome 2", "qty": 1, "unit_price": 289.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10311",
+      "customer_email": "drew.kim@example.com",
+      "order_date": "2026-05-28",
+      "status": "shipped",
+      "ship_date": "2026-05-30",
+      "delivery_date": null,
+      "items": [
+        { "sku": "TGC-PACK-001", "name": "Vista 65", "qty": 1, "unit_price": 279.00 },
+        { "sku": "TGC-STOVE-001", "name": "Pocket Flame", "qty": 1, "unit_price": 54.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10314",
+      "customer_email": "casey.rivera@example.com",
+      "order_date": "2026-05-29",
+      "status": "shipped",
+      "ship_date": "2026-05-31",
+      "delivery_date": null,
+      "items": [
+        { "sku": "TGC-FOOT-002", "name": "Rivergrip Sandal", "qty": 1, "unit_price": 79.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10316",
+      "customer_email": "quinn.foster@example.com",
+      "order_date": "2026-05-30",
+      "status": "shipped",
+      "ship_date": "2026-06-01",
+      "delivery_date": null,
+      "items": [
+        { "sku": "TGC-APRL-001", "name": "Stormshell Jacket", "qty": 1, "unit_price": 249.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10320",
+      "customer_email": "morgan.patel@example.com",
+      "order_date": "2026-06-01",
+      "status": "placed",
+      "ship_date": null,
+      "delivery_date": null,
+      "items": [
+        { "sku": "TGC-TENT-003", "name": "Featherlite UL 2", "qty": 1, "unit_price": 449.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10322",
+      "customer_email": "jordan.lee@example.com",
+      "order_date": "2026-06-02",
+      "status": "placed",
+      "ship_date": null,
+      "delivery_date": null,
+      "items": [
+        { "sku": "TGC-APRL-003", "name": "Merino Base Layer Crew", "qty": 2, "unit_price": 89.00 }
+      ]
+    }
+  ]
+}
