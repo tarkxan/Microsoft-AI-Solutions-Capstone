@@ -276,6 +276,75 @@
       "items": [
         { "sku": "TGC-APRL-003", "name": "Merino Base Layer Crew", "qty": 2, "unit_price": 89.00 }
       ]
+    },
+    {
+      "order_id": "TGC-10324",
+      "customer_email": "riley.santos@example.com",
+      "order_date": "2026-03-01",
+      "status": "delivered",
+      "ship_date": "2026-03-03",
+      "delivery_date": "2026-03-07",
+      "items": [
+        { "sku": "TGC-TENT-004", "name": "Alpine Stormbreaker 2", "qty": 1, "unit_price": 529.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10326",
+      "customer_email": "jamie.cohen@example.com",
+      "order_date": "2026-05-10",
+      "status": "delivered",
+      "ship_date": "2026-05-12",
+      "delivery_date": "2026-05-16",
+      "items": [
+        { "sku": "TGC-FOOT-002", "name": "Rivergrip Sandal", "qty": 1, "unit_price": 79.00 },
+        { "sku": "TGC-NAV-002", "name": "TrailMate Compass", "qty": 1, "unit_price": 39.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10328",
+      "customer_email": "quinn.foster@example.com",
+      "order_date": "2026-06-01",
+      "status": "placed",
+      "ship_date": null,
+      "delivery_date": null,
+      "items": [
+        { "sku": "TGC-BAG-002", "name": "Meadow 30", "qty": 1, "unit_price": 159.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10330",
+      "customer_email": "sam.okafor@example.com",
+      "order_date": "2026-05-25",
+      "status": "shipped",
+      "ship_date": "2026-05-27",
+      "delivery_date": null,
+      "items": [
+        { "sku": "TGC-TENT-001", "name": "Summit Ridge 2", "qty": 1, "unit_price": 379.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10332",
+      "customer_email": "morgan.patel@example.com",
+      "order_date": "2026-04-10",
+      "status": "delivered",
+      "ship_date": "2026-04-12",
+      "delivery_date": "2026-04-16",
+      "items": [
+        { "sku": "TGC-PACK-003", "name": "Expedition 85", "qty": 1, "unit_price": 349.00 },
+        { "sku": "TGC-STOVE-003", "name": "Windburner Solo", "qty": 1, "unit_price": 189.00 },
+        { "sku": "TGC-APRL-003", "name": "Merino Base Layer Crew", "qty": 1, "unit_price": 89.00 }
+      ]
+    },
+    {
+      "order_id": "TGC-10335",
+      "customer_email": "drew.kim@example.com",
+      "order_date": "2026-05-20",
+      "status": "delivered",
+      "ship_date": "2026-05-22",
+      "delivery_date": "2026-05-26",
+      "items": [
+        { "sku": "TGC-BAG-004", "name": "Drifter 45 Quilt", "qty": 1, "unit_price": 199.00 }
+      ]
     }
   ]
 }

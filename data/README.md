@@ -41,7 +41,7 @@ delivered on/after that date are inside the window, earlier ones are outside.
 |------|-----------|---------|
 | `catalog/*.md` | 25 products, one Markdown file each | Product Advisor (RAG) |
 | `policies/*.txt` | 5 policy documents, numbered ALL-CAPS sections | Policy & Support (RAG/FileSearch) |
-| `orders.json` | 24 synthetic orders | Order & Returns (function tools) |
+| `orders.json` | 30 synthetic orders | Order & Returns (function tools) |
 
 ## Scenario coverage (Section 6 of the outline)
 

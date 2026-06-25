@@ -45,7 +45,7 @@ additional shipping cost.
 7. DEFECTIVE OR DAMAGED ITEMS
 Items that arrive damaged or that fail due to a manufacturing defect are handled under the
 Warranty Policy and are not subject to the 60-day return window. Report defects with photos
-and your order ID. See WARRANTY-POLICY for coverage terms by product category.
+and your order ID. See warranty-policy.txt for coverage terms by product category.
 
 8. CONTACT
 For return questions not answered here, contact the Trailhead Help Desk at

@@ -27,9 +27,9 @@ based on destination and weight. The customer is responsible for any import duti
 or customs fees assessed by the destination country.
 
 5. SUMMIT CLUB SHIPPING BENEFITS
-Summit Club Trail and Summit tier members receive free standard shipping on all orders with
-no minimum. Summit tier members also receive free expedited shipping. See MEMBERSHIP-PROGRAM
-for tier details.
+Trail and Summit tier members receive free standard shipping on all orders with
+no minimum. Summit tier members also receive free expedited shipping. See
+membership-program.txt for tier details.
 
 6. LOST OR DELAYED SHIPMENTS
 If your tracking shows no movement for 7 or more business days, or a package is marked
